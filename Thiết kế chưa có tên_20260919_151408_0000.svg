@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" width="512" height="512" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="900" viewBox="0 0 675 675" preserveAspectRatio="xMidYMid meet" version="1.1">
+  <defs>
+    <clipPath id="c441c573ac">
+      <path d="M 0.5 0 L 674.5 0 L 674.5 674 L 0.5 674 Z M 0.5 0 " clip-rule="nonzero"/>
+    </clipPath>
+  </defs>
+  
+  <g clip-path="url(#c441c573ac)">
+    <!-- Nền trắng -->
+    <path fill="#ffffff" d="M 0.5 0 L 674.5 0 L 674.5 674 L 0.5 674 Z" fill-opacity="1" fill-rule="nonzero"/>
+    
+    <!-- Ảnh nền gốc của bạn -->
+    <g transform="matrix(0.748891, 0, 0, 0.748891, 0.499259, 0.0000199704)">
+      <image x="0" y="0" width="900" xlink:href="data:image/png;base64,..." />
+    </g>
+
+    <!-- === BẠN CÓ THỂ THÊM CÁC THÀNH PHẦN MỚI (TEXT, ICON, SHAPE) Ở ĐÂY === -->
+    <!-- Ví dụ thêm một dòng chữ:
+    <text x="50" y="50" font-family="Arial" font-size="24" fill="#333333">Văn bản cần thêm</text>
+    -->
+
+  </g>
+</svg>
